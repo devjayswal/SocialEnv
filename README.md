@@ -10,7 +10,7 @@
 
 ### you can test via below Link 
 ``` 
-[https://social-env.vercel.app/ ](https://social-env.vercel.app/)😊
+https://social-env.vercel.app/
 ```
 
 ---
