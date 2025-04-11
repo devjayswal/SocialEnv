@@ -7,10 +7,10 @@
 ## 🧠 Overview
 **SocialEnv** is a full-fledged social media platform inspired by InstagramDeveloped using React and Vite, it offers users the ability to register, log in, create and update profiles, and share posts with media uploadsThis project serves as a significant addition to the developer's portfolio, showcasing proficiency in modern web development practices
 
-```
-```
-### you can test via Link ......
+
+### you can test via below Link 
 ``` 
+# i will deployed  it versal as soon as possible 😊
 ```
 
 ---
