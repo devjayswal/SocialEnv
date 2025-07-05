@@ -40,20 +40,20 @@ https://social-env.vercel.app/
 ## 🛠️ Technologies Used
 
 - **Frontend**:
- - Ract
- - TypeScipt
- - ite
- - TailwindCSS
+ - React
+ - TypeScript
+ - Vite
+ - TailwindCSS
 - **State Management**:
- - Context API / Redux (if applicale)
+ - ontext API / Redux (if applicale)
 - **Routing**:
- - React Roter
+ - React Roter
 - **Form Handling**:
- - React Hook Form / Formik (if applicale)
+ - React Hook Form / Formik (if applicale)
 - **Backend**:
- - Node.js / Express (if applicale)
+ - Node.js / Express (if applicale)
 - **Database**:
- - MongoDB / Firebase (if applicale)
+ - MongoDB / Firebase (if applicale)
 
 ---
 
