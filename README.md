@@ -5,10 +5,10 @@
 ---
 
 ## 🧠 Overview
-**SocialEnv** is a full-fledged social media platform inspired by InstagramDeveloped using React and Vite, it offers users the ability to register, log in, create and update profiles, and share posts with media uploadsThis project serves as a significant addition to the developer's portfolio, showcasing proficiency in modern web development practices
+**SocialEnv** is a full-fledged social media platform inspired by Instagram. Developed using React and Vite, it offers users the ability to register, log in, create and update profiles, and share posts with media This project serves as a significant addition to the developer's portfolio, showcasing proficiency in modern web development practices
 
 
-### you can test via below Link 
+### you can test via link below 
 ``` 
 https://social-env.vercel.app/
 ```
@@ -17,23 +17,23 @@ https://social-env.vercel.app/
 
 ## 📁 Project Structure
 
-- **src/** Contains the main source code, including components, pages, and utilitie.
-- **public/** Holds static assets and the main HTML fil.
-- **.env.local** Environment-specific variable.
-- **package.json** Lists project dependencies and script.
-- **vite.config.ts** Configuration file for Vit.
-- **tailwind.config.js** Tailwind CSS configuratio.
-- **tsconfig.json** TypeScript configuratio.
+- **src/** Contains the main source code, including components, pages, and utilities.
+- **public/** Holds static assets and the main HTML file.
+- **.env.local** Environment-specific variable.
+- **package.json** Lists project dependencies and scripts.
+- **vite.config.ts** Configuration file for Vit.
+- **tailwind.config.js** Tailwind CSS configuration.
+- **tsconfig.json** TypeScript configuratio.
 
 ---
 
 ## 🚀 Features
 
-- **User Authentication*: Secure login and registration functionalitis.
-- **Profile Management*: Create and update user profiles with personal information and avatas.
-- **Post Creation*: Upload and share posts with images and captios.
-- **Responsive Design*: Optimized for various device sizes using Tailwind CS.
-- **Modern Development Stack*: Built with React, TypeScript, and Vite for efficient development and performane.
+- **User Authentication*: Secure login and registration functionalities.
+- **Profile Management*: Create and update user profiles with personal information and avatars.
+- **Post Creation*: Upload and share posts with images and captions.
+- **Responsive Design*: Optimised for various device sizes using Tailwind CS.
+- **Modern Development Stack*: Built with React, TypeScript, and Vite for efficient development and performance.
 
 ---
 
@@ -45,15 +45,15 @@ https://social-env.vercel.app/
  - Vite
  - TailwindCSS
 - **State Management**:
- - ontext API / Redux (if applicale)
+ - ontext API / Redux 
 - **Routing**:
  - React Roter
 - **Form Handling**:
- - React Hook Form / Formik (if applicale)
+ - React Hook Form / Formik 
 - **Backend**:
- - Node.js / Express (if applicale)
+ - Node.js / Express 
 - **Database**:
- - MongoDB / Firebase (if applicale)
+ - MongoDB / Firebase 
 
 ---
 
@@ -77,7 +77,7 @@ To set up the project locally, follow these steps:
    ```
 
 4. **Configure Environment Variables**:
-  - Create a `.env.local` file in the root directory and add necessary environment variales.
+  - Create a `.env.local` file in the root directory and add necessary environment variables.
 
 5. **Run the Development Server**:
    ```bash
@@ -94,19 +94,19 @@ To set up the project locally, follow these steps:
 ## 💡 Usage
 
 - **Access the Application**
-  - Open your browser and navigate to `http://localhost:3000` (or the port specified in your configuraion).
+  - Open your browser and navigate to `http://localhost:3000` (or the port specified in your configuration).
 
 - **Explore Features**
-  - Register a new account or log in with existing credenials.
-  - Update your profile with personal information and an aatar.
-  - Create new posts by uploading images and adding capions.
-  - View and interact with posts from other users (if implemeted).
+  - Register a new account or log in with existing credentials.
+  - Update your profile with personal information and an avatar.
+  - Create new posts by uploading images and adding captions.
+  - View and interact with posts from other users.
 
 ---
 
 ## 📬 Cotact
 
-For any inquiries or feedback, please contact [devjayswal404@gmail.com](devjayswal404@gmail.com).
+For any inquiries or feedback, please contact [devjayswal404@gmail.com](devjayswal404@gmail.com).
 
 ---
 
