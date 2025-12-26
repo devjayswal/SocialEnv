@@ -11,6 +11,10 @@
 ### you can test via link below 
 ``` 
 https://social-env.vercel.app/
+
+### Test Login Credentials 
+Email: rdssjayswal@gmail.com 
+Password: Dev@958988
 ```
 
 ---

@@ -62,6 +62,8 @@ const SigninForm = () => {
         <p className="text-light-3 small-medium md:base-regular mt-2">
           Welcome back! Please enter your details.
         </p>
+        <br />
+        <p> Use rdssjayswal@gmail.com  && Dev@958988 For Login </p>
         <form
           onSubmit={form.handleSubmit(handleSignin)}
           className="flex flex-col gap-5 w-full mt-4">
